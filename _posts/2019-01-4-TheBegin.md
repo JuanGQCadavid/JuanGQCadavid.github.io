@@ -4,9 +4,14 @@ title: The Begin.
 author: "Juan Cadavid"
 ---
 
-Why wait? Why do i like or enjoying doing everithing tha put me blue, sad and desesperated?
+What a beutiful day.
 
-At the moment, a simple why question is dificult to answerd, I preferted What questions, so
-What could i do to stop missing life in order to start living like the eagle i am?
+My goals:
+---
+
+1. Learn Artificial Intelligence from a Coursera Course and having a base Book
+2. Learn Big Data from a coursera specialization.
+3. Learn Algorithms from a Book and Course.
+4. Coursera Course abour researchers
 
 Stay tuned.
