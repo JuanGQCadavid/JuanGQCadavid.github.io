@@ -7,4 +7,4 @@ title = 'My First Post'
 
 ### This is a simple test
 
-This is a test page
+This is a test page, dude
